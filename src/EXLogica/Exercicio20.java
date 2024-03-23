@@ -14,7 +14,7 @@ public class Exercicio20 {
         double c = raiz1 * raiz2;
 
         System.out.println("A equação do segundo grau é: ");
-        System.out.println("x^2 + (" + b + ")x + (" + c + ") = 0");
+        System.out.println("x^2 + (" + b + ")x + (" + c + ") = 0 " + a);
 
         scanner.close();
     }
